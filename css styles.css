@@ -1,0 +1,218 @@
+
+@font-face {
+    font-family:my;
+    src: url(../Al-qadri-tech/ADLaM_Display/ADLaMDisplay-Regular.ttf);
+ }
+
+#header{
+    color: #fff;
+    background-color: #e74c3c;
+}
+
+.section{
+    padding-top: 70px;
+   
+}
+
+.section .section-head{
+    color: tomato;
+text-align: center;
+margin-bottom: 70px;
+font-family: my;
+font-weight: bolder;
+}
+
+.section h2.section-head::after{
+    background: #c0392b;
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    margin: 20px auto;
+}
+
+
+
+#logo{ 
+position: absolute;
+    display: inline-block;
+    font-size: 2rem;
+    margin-top: 25px;
+    margin-left: 5px;
+    font-family: my;
+}
+
+#menu{
+    float: right;
+    list-style: none;
+    margin-top: 15px;
+    padding: 0;
+    
+  
+}
+#menu li{
+    display: inline-block;
+    
+}
+
+#menu li a{
+    color: #fff;
+    padding: 15px 10px;
+    display: block;
+    text-decoration: none;
+}
+
+#menu li a:hover{
+    background-color: #c0392b;
+    height:60px;
+}
+
+#banner{
+    background-image: url('./Images/alvin-engler-bIhpiQA009k-unsplash.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.banner-title{
+    padding-top: 5rem;
+}
+
+.banner-title h1{
+    background: rgba(255,255,255,0.8);
+    display: inline-block;
+    padding: 10px;
+    margin: 0;
+}
+
+.banner-title p.lead{
+    color: #0c0c0c;
+    background: rgba(231, 76, 60, 0.7);
+    padding: 10px;
+    text-align: center;
+    width: fit-content;
+    font-weight: bolder;
+}
+
+
+.service-box{
+text-align: center;
+margin-bottom: 65px;
+
+}
+
+.service-box i{
+    font-size: 100px;
+margin-bottom: 15px;
+}
+
+
+button{
+    margin-bottom: 25px;
+    background-color: #07bcb6f4;
+font-size: large;
+border-radius: 5%;
+    margin-left: 15%;
+    width: 155px;
+    border: 1px solid black;
+    height: 45px;
+}
+
+button:hover{
+   font-weight: bolder;
+    background-color: #16bc07f4;
+font-size: x-large;
+}
+
+#testimonials{
+    background-image: url(./Images/nicolas-thomas-PLDkBHbM3Hc-unsplash2.jpg) ;
+    background-size: cover;
+    text-align: end;
+}
+
+
+.white{
+    color: white;
+}
+
+.im:hover{
+    width: 35%;
+}
+
+
+.news-post img{
+    margin-bottom: 15px;
+}
+
+
+.news-post {
+  text-align: center;
+}
+
+.news-post a{
+  color: #e74c3c;
+  text-decoration: none;
+}
+
+
+.post-date:before{
+    content: "\f073";
+    font-family: fontawesome;
+    font-size: 25px;
+    padding-right: 5px;
+}
+
+a.readmore{
+    font-size: 13px;
+}
+
+a.readmore:after{
+    font-size: 13px;
+    content: "\f101";
+    font-family: fontawesome;
+    padding-left: 5px;
+}
+
+#about{
+    background-color:#34495e;
+    margin-top: 55px; 
+}
+
+.section2{
+    margin-top: 35px;
+    text-align: start;
+    
+}
+
+.section2 .a::after{
+    background: #fff;
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    
+}
+
+.p{
+    padding-left: 75px;
+}
+
+.latest:before{
+    font-size: 13px;
+    content: "\f101";
+    font-family: fontawesome;
+    padding-left: 5px;
+
+}
+
+.copy{
+    color: #fff;
+    background:#2c3e50;
+    height: 50px;
+    padding-top: 5px;
+    text-align: end;
+}
+
+.btn i{
+    he
+}
