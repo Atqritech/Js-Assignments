@@ -111,8 +111,8 @@ button{
     margin-bottom: 25px;
     background-color: #07bcb6f4;
 font-size: large;
-border-radius: 5%;
-    margin-left: 15%;
+border-radius: 100px ;
+    /* margin-left: 10%; */
     width: 155px;
     border: 1px solid black;
     height: 45px;

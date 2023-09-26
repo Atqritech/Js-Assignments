@@ -6,6 +6,6 @@ alert(" Alert 03 \n welcome to AL Qadri Tech... \n Happy Coding!");
 
 alert(" Alert 04 \n welcome to AL Qadri Tech...");
 
-alert(" Alert 04 \n Happy coding! \n Prevent this page from creating additional dialogs.");
+alert(" Alert 04 P2 \n Happy coding! \n Prevent this page from creating additional dialogs.");
 
 console.log("Hello... I can runs JS throuh my web browser's console")
